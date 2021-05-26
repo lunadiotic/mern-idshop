@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "idshop build with mongodb express react node",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node backend/server",
     "server": "nodemon backend/server",
